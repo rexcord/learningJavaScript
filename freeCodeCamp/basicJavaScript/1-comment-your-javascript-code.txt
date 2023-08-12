@@ -1,0 +1,6 @@
+// Hi, welcome to the inline comment.
+
+/*
+* And this is a styled multiline comment...
+* with asterisks between the start and end comment tags.
+*/
